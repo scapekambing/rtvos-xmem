@@ -18,8 +18,9 @@ This has been tested on Windows 11.
 
 First, ensure you are in the correct enviornment and then run 
 
+```bash
 python ./main.py
-`
+```
 Then, you'll be prompted to take a photo of the first frame. Ensure there is minimal change to the scene after the photo has been taken. Press "enter" to take the photo.
 
 Next, you'll be given the option to select a single object mask with the left mouse button. If you make a mistake, simply hit the reset frame. Do not select more than 1 as the feature for more than 1 object has not been implemented. Close the window when complete.
